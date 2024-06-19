@@ -1,0 +1,157 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url(C:\Users\Alex\Downloads\Index\fonts\outfit\Outfit-VariableFont_wght.ttf) format(ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Young';
+  src: url(C:\Users\Alex\Downloads\Index\fonts\young-serif\YoungSerif-Regular.ttf) format(ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h1{
+  text-align: left;
+  font-size: 45px;
+  font-family:'Young';
+}
+
+li{
+  font-family: 'Outfit';
+}
+
+p, td{
+  text-align: justify;
+  color: gray;
+}
+
+.box1{ /* código da caixa branca */
+  place-items: center;
+  width: 650px;
+  background-color: white;
+  padding: 20px;
+  border: 10px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.box2{ /* código da caixa rosa */
+  justify-items: center;
+  max-width: 100%;
+  height: auto;
+  background-color: #fdf2fc;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+  font-family: 'Outfit';
+  color: gray;
+  font-size: small;
+}
+
+h2{ /* título da caixa rosa */
+  color:purple;
+}
+
+.box3{
+  font-family: 'Outfit';
+  color: gray;
+  font-size: normal;
+}
+
+.box4{
+  font-family: 'Outfit';
+  color: gray;
+  font-size: normal;
+}
+
+ol p{
+  color: gray;
+}
+
+ol li{
+  color: brown;
+}
+
+h3, h4, h5{
+  font-family: 'younserif';
+  color: brown;
+  font-size: 30px;
+}
+
+
+body{
+    background-color: bisque;
+}
+
+.omelete{
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+.text1{
+  font-family: 'Outfit';
+  font-size: 15px;  
+  color: gray;
+}
+
+.box5{
+  font-family: 'Outfit';
+
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd; /* Linha cinza claro */
+  padding-bottom: 15px; /* Espaçamento entre o texto e a linha */
+}
+
+
+th{
+  color: brown;
+}
+
+.box3, .box4{
+  color: #3f404e; /* Cor de subtítulo cinza escuro */
+  border-bottom: 1px solid #ddd; /* Linha cinza claro */
+  padding-bottom: 10px; /* Espaçamento entre o texto e a linha */
+}
+
+
+footer {
+  text-align: center; /* Centraliza o texto horizontalmente */
+  margin-top: 20px;   /* Adiciona um espaçamento superior */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
